@@ -1,0 +1,21 @@
+#shape{
+    height: 200px;
+    width: 200px;
+
+    background-color: rgb(204, 170, 170);
+    border-radius: 40px;
+    
+  }
+  .heading{
+    text-align: center;
+    background-color: bisque;
+    border-radius: 20px;
+    font-size: 40px;
+
+  }
+  .inst{
+    text-align: center;
+    background-origin: padding-box;
+  }
+
+  
